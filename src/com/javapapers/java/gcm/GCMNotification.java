@@ -28,7 +28,7 @@ public class GCMNotification extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	// Put your Google API Server Key here
-	private static final String GOOGLE_SERVER_KEY = "AIzaSyBPb4SRT0p1GSvMBzU_B4FV_SBtHnkkyIU";
+	private static final String GOOGLE_SERVER_KEY = "";
 	static final String REGISTER_NAME = "name";
 	static final String MESSAGE_KEY = "message";
 	static final String TO_NAME = "toName";
